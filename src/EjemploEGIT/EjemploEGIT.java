@@ -11,6 +11,8 @@ public class EjemploEGIT {
 		System.out.println("Ejemplo GIT desde Eclipse");
 		System.out.println("Primer cambio desde master");
 		System.out.println("Primer cambio Rama 1");
+		System.out.println("Segundo cambio rama 1");
+		
 		
 		String prueba = teclado.nextLine();
 		
