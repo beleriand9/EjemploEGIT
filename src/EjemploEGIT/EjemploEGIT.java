@@ -12,6 +12,9 @@ public class EjemploEGIT {
 		System.out.println("Primer cambio desde master");
 		System.out.println("Primer cambio Rama 1");
 		System.out.println("Tercer commit master");
+		System.out.println("Segundo cambio rama 1");
+		
+
 		
 		String prueba = teclado.nextLine();
 		
